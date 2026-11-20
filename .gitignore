@@ -1,0 +1,92 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual Environments
+# ==============================
+venv/
+.venv/
+env/
+ENV/
+
+# ==============================
+# Pytest / Testing / Coverage
+# ==============================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# ==============================
+# Environment Variables / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Logs
+# ==============================
+*.log
+logs/
+
+# ==============================
+# IDE / Editor
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# Python Packaging / Build
+# ==============================
+build/
+dist/
+*.egg
+*.egg-info/
+walled_ai.egg-info/
+
+# ==============================
+# Temporary Files
+# ==============================
+tmp/
+temp/
+*.tmp
+*.bak
+
+# ==============================
+# Project-Specific Exclusions
+# ==============================
+test_files/
+http_test_client.py
+http_test_server.py
+ignore this file.py
+
+# ==============================
+# Local MCP / Development Data
+# ==============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================
+# Python Type Checker / Linter Cache
+# ==============================
+.mypy_cache/
+.pyright/
+.ruff_cache/

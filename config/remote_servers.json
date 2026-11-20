@@ -1,0 +1,18 @@
+{
+  "host": "127.0.0.1",
+  "port": 8001,
+  "servers": {
+    "everything": {
+      "transport": "streamable_http",
+      "url": "http://localhost:3001/mcp"
+    },
+    "filesystem": {
+      "transport": "streamable_http",
+      "url": "http://localhost:3002/mcp"
+    },
+    "microsoft-learn": {
+      "transport": "streamable_http",
+      "url": "https://learn.microsoft.com/api/mcp"
+    }
+  }
+}
