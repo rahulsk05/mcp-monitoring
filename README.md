@@ -6,8 +6,8 @@
 
 ## Repository and Demo
 
-- **Repository URL:** `<REPOSITORY_URL_PLACEHOLDER>`
-- **Demo video:** `<DEMO_VIDEO_URL_PLACEHOLDER>`
+- **Repository URL:** `https://github.com/rahulsk05/mcp-monitoring`
+- **Demo video:** `https://drive.google.com/file/d/1YnKb3l9S91rTgAONi8Fe68IGl7duGcSP/view?usp=sharing`
 
 Replace these placeholders with the actual repository and demo links before publishing.
 
@@ -102,11 +102,9 @@ npx --version
 
 ### 1. Clone the repository
 
-Replace `<REPOSITORY_URL>` with the actual repository URL:
-
 
 ```bat
-git clone <REPOSITORY_URL>
+git clone https://github.com/rahulsk05/mcp-monitoring
 cd mcp-monitoring
 ```
 
